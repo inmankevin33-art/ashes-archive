@@ -1,6 +1,5 @@
 import Hero from '@/components/Hero'
 import SectionHeading from '@/components/SectionHeading'
-import TimelineItem from '@/components/TimelineItem'
 
 export default function Timeline() {
   const timelineEvents = [
