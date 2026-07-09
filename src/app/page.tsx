@@ -63,6 +63,78 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Head-to-Head Record Section */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+        <SectionHeading
+          title="Head-to-Head Record"
+          description="England vs Australia in The Ashes"
+        />
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {/* England Card */}
+          <div className="bg-ashes-charcoal rounded-lg p-8 border border-ashes-gold hover:shadow-lg hover:shadow-ashes-gold/20 transition-all duration-300">
+            <div className="text-center">
+              <h3 className="text-3xl font-bold text-ashes-gold mb-6">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</h3>
+              <div className="space-y-4">
+                <div>
+                  <p className="text-ashes-light-grey text-sm mb-1">Series Wins</p>
+                  <p className="text-4xl font-bold text-white">32</p>
+                </div>
+                <div className="border-t border-ashes-dark pt-4">
+                  <p className="text-ashes-light-grey text-sm mb-1">Test Wins</p>
+                  <p className="text-3xl font-bold text-ashes-gold">116</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* VS Card */}
+          <div className="bg-ashes-charcoal rounded-lg p-8 border border-ashes-light-grey flex items-center justify-center">
+            <div className="text-center">
+              <p className="text-ashes-gold font-bold text-lg mb-4">All Time</p>
+              <p className="text-5xl font-bold text-white mb-4">VS</p>
+              <p className="text-ashes-light-grey text-sm">Since 1882</p>
+              <p className="text-2xl font-bold text-ashes-gold mt-4">71 Series</p>
+            </div>
+          </div>
+
+          {/* Australia Card */}
+          <div className="bg-ashes-charcoal rounded-lg p-8 border border-ashes-gold hover:shadow-lg hover:shadow-ashes-gold/20 transition-all duration-300">
+            <div className="text-center">
+              <h3 className="text-3xl font-bold text-ashes-gold mb-6">🇦🇺 Australia</h3>
+              <div className="space-y-4">
+                <div>
+                  <p className="text-ashes-light-grey text-sm mb-1">Series Wins</p>
+                  <p className="text-4xl font-bold text-white">34</p>
+                </div>
+                <div className="border-t border-ashes-dark pt-4">
+                  <p className="text-ashes-light-grey text-sm mb-1">Test Wins</p>
+                  <p className="text-3xl font-bold text-ashes-gold">125</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Additional Stats */}
+        <div className="mt-12 bg-ashes-charcoal rounded-lg p-8 border border-ashes-charcoal">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+            <div>
+              <p className="text-ashes-gold font-bold text-sm mb-2">DRAWN SERIES</p>
+              <p className="text-3xl font-bold text-white">5</p>
+            </div>
+            <div>
+              <p className="text-ashes-gold font-bold text-sm mb-2">TOTAL TEST MATCHES</p>
+              <p className="text-3xl font-bold text-white">350+</p>
+            </div>
+            <div>
+              <p className="text-ashes-gold font-bold text-sm mb-2">DRAWS</p>
+              <p className="text-3xl font-bold text-white">109</p>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }
