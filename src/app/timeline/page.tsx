@@ -7,37 +7,37 @@ export default function Timeline() {
       year: 1882,
       title: 'The First Ashes Series',
       description: 'Australia defeats England in England for the first time. The "Ashes" concept is born when the Sporting Times publishes a mock obituary of English cricket.',
-      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=600&h=400&fit=crop&q=80',
     },
     {
       year: 1932,
       title: 'Bodyline Series',
       description: 'England\'s controversial "Bodyline" strategy under Douglas Jardine causes tension but secures victory. This series remains one of the most contentious in cricket history.',
-      image: 'https://images.unsplash.com/photo-1461882379934-6d30c2aef11c?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1518611505868-48510c2e022f?w=600&h=400&fit=crop&q=80',
     },
     {
       year: 1948,
       title: 'Bradman\'s Farewell Tour',
       description: 'Don Bradman leads Australia on his final Ashes tour. His extraordinary career and legacy define an era of Australian cricket excellence.',
-      image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?w=600&h=400&fit=crop&q=80',
     },
     {
       year: 1981,
       title: 'Botham\'s Ashes',
       description: 'Ian Botham\'s incredible all-round performance leads England to a stunning comeback victory. One of the most memorable series in Ashes history.',
-      image: 'https://images.unsplash.com/photo-1461882379934-6d30c2aef11c?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1506521295777-a54be1886000?w=600&h=400&fit=crop&q=80',
     },
     {
       year: 2005,
       title: 'England Reclaims the Ashes',
       description: 'England wins the Ashes in Australia for the first time since 1987. Michael Vaughan\'s team delivers a dominant performance, sparking renewed interest in Test cricket.',
-      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1540747913199-0073a20579f3?w=600&h=400&fit=crop&q=80',
     },
     {
       year: 2023,
       title: 'Modern Era Continues',
       description: 'The Ashes rivalry remains as fierce as ever, with both nations competing at the highest level. New stars emerge while the tradition of excellence continues.',
-      image: 'https://images.unsplash.com/photo-1461882379934-6d30c2aef11c?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&h=400&fit=crop&q=80',
     },
   ]
 

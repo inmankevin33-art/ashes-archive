@@ -9,7 +9,7 @@ export default function Legends() {
       nationality: 'Australia',
       biography: 'Widely regarded as the greatest batsman of all time, Bradman dominated The Ashes with an extraordinary career average.',
       achievements: 'Ashes average: 89.78 | Multiple series wins | Leading Australia to dominance in the 1930s and 1940s',
-      image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?w=500&h=600&fit=crop&q=80',
     },
     {
       name: 'Sir Jack Hobbs',
@@ -17,7 +17,7 @@ export default function Legends() {
       nationality: 'England',
       biography: 'A legendary opening batsman who represented England for over two decades and was instrumental in many Ashes victories.',
       achievements: 'Ashes average: 56.94 | 15 Ashes series appearances | Over 3,000 Test runs in The Ashes',
-      image: 'https://images.unsplash.com/photo-1461882379934-6d30c2aef11c?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&h=600&fit=crop&q=80',
     },
     {
       name: 'Shane Warne',
@@ -25,7 +25,7 @@ export default function Legends() {
       nationality: 'Australia',
       biography: 'Revolutionized leg-spin bowling and dominated The Ashes with his unplayable deliveries and cricket intelligence.',
       achievements: 'Over 195 Ashes Test wickets | Multiple Man of the Series awards | Key to Australia\'s success in the 1990s-2000s',
-      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1518611505868-48510c2e022f?w=500&h=600&fit=crop&q=80',
     },
     {
       name: 'Ian Botham',
@@ -33,7 +33,7 @@ export default function Legends() {
       nationality: 'England',
       biography: 'One of the greatest all-rounders in cricket history, Botham produced some of the most memorable Ashes performances ever witnessed.',
       achievements: 'Ashes average: 32.39 with bat | Over 80 Ashes Test wickets | Iconic 1981 Ashes series',
-      image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1506521295777-a54be1886000?w=500&h=600&fit=crop&q=80',
     },
     {
       name: 'Steve Smith',
@@ -41,7 +41,7 @@ export default function Legends() {
       nationality: 'Australia',
       biography: 'Modern-era master batsman who has consistently dominated The Ashes with technical brilliance and consistency.',
       achievements: 'Current era dominant performer | Ashes average over 70 | Key to recent Australian victories',
-      image: 'https://images.unsplash.com/photo-1461882379934-6d30c2aef11c?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1540747913199-0073a20579f3?w=500&h=600&fit=crop&q=80',
     },
     {
       name: 'Joe Root',
@@ -49,7 +49,7 @@ export default function Legends() {
       nationality: 'England',
       biography: 'England\'s modern batting mainstay who carries the responsibility of leading England\'s charge in The Ashes.',
       achievements: 'Over 1,000 Test runs in The Ashes | Consistent performer across multiple series | Leading England\'s batting unit',
-      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=500&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=500&h=600&fit=crop&q=80',
     },
   ]
 
