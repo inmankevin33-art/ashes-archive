@@ -29,10 +29,10 @@ export default function GreatestMatches() {
       memorable: 'Australia\'s powerful performance demonstrated their dominance in Test cricket, with strong performances from Smith and Labuschagne.',
     },
     {
-      title: 'Edgbaston 1902',
-      summary: 'England vs Australia at Edgbaston',
-      winner: 'Australia',
-      memorable: 'A classic contest showcasing the technical excellence and competitive spirit that defines The Ashes.',
+      title: 'Headingley 2019',
+      summary: 'England vs Australia at Headingley Cricket Ground',
+      winner: 'England',
+      memorable: 'Ben Stokes\' legendary 135 not out partnered with Jack Leach\'s grit in a miraculous partnership secured an incredible one-wicket victory for England.',
     },
     {
       title: 'Brisbane 1994',
