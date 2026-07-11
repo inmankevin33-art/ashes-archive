@@ -7,19 +7,19 @@ export default function Timeline() {
       year: 1882,
       title: 'The First Ashes Series',
       description: 'Australia defeats England in England for the first time. The "Ashes" concept is born when the Sporting Times publishes a mock obituary of English cricket.',
-      image: 'https://images.unsplash.com/photo-1531415074968-36d109178d10?w=600&h=400&fit=crop&q=80',
+      image: '/images/timeline/1882-first-ashes.webp',
     },
     {
       year: 1932,
       title: 'Bodyline Series',
       description: 'England\'s controversial "Bodyline" strategy under Douglas Jardine causes tension but secures victory. This series remains one of the most contentious in cricket history.',
-      image: 'https://images.unsplash.com/photo-1518611505868-48510c2e022f?w=600&h=400&fit=crop&q=80',
+      image: '/images/timeline/1932-bodyline.webp',
     },
     {
       year: 1948,
       title: 'Bradman\'s Farewell Tour',
       description: 'Don Bradman leads Australia on his final Ashes tour. His extraordinary career and legacy define an era of Australian cricket excellence.',
-      image: 'https://images.unsplash.com/photo-1517836357463-d25ddfcbf042?w=600&h=400&fit=crop&q=80',
+      image: '/images/timeline/1948-invincibles.webp',
     },
     {
       year: 1981,
